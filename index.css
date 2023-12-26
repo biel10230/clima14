@@ -1,0 +1,11 @@
+body{
+    padding: 0px;
+    background-color: black;
+   display:flex;
+    justify-content: left;
+    width: 100px;
+    height: 150px;
+}
+.left{
+    text-align: left;
+}
